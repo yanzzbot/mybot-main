@@ -8,12 +8,12 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = 'RAMA GANK'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/yes_gwsalah'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+62895355566000'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = 'YanzzBotQu'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/_zxuan54'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+6281803522862'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://chat.whatsapp.com/FSVUNDmNM8FCIyHtYyONtd/-'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://youtu.be/RISKA GAMING'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'https://youtu.be/YanzzOfficial'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -145,10 +145,10 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner BANGLENT wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner YanzzBotQu wa.me/+6281803522862* ' ,MessageType.text);
 }
 else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator BANGLENT wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Creator YanzzBotQu wa.me/+6281803522862* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
 conn.sendMessage(id, ' _Pagi juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
